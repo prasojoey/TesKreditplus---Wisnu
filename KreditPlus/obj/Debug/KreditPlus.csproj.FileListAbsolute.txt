@@ -1,0 +1,6 @@
+C:\Users\Pudjo S\source\repos\KreditPlus\KreditPlus\bin\Debug\KreditPlus.exe.config
+C:\Users\Pudjo S\source\repos\KreditPlus\KreditPlus\bin\Debug\KreditPlus.exe
+C:\Users\Pudjo S\source\repos\KreditPlus\KreditPlus\bin\Debug\KreditPlus.pdb
+C:\Users\Pudjo S\source\repos\KreditPlus\KreditPlus\obj\Debug\KreditPlus.csprojAssemblyReference.cache
+C:\Users\Pudjo S\source\repos\KreditPlus\KreditPlus\obj\Debug\KreditPlus.exe
+C:\Users\Pudjo S\source\repos\KreditPlus\KreditPlus\obj\Debug\KreditPlus.pdb
